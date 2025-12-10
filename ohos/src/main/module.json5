@@ -1,0 +1,10 @@
+{
+  "module": {
+    "name": "flutter_system_proxy",
+    "type": "har",
+    "deviceTypes": [
+      "default",
+      "tablet"
+    ]
+  }
+}
